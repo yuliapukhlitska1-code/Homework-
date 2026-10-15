@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+}
+#about {
+    color: red;
+    text-align: center;
+}
+.about-text {
+    font-size: 18px;
+    color: #333333;
+}
+.italic-text {
+    font-style: italic;
+}
+.pet-photo {
+    border: 3px solid white;
+}
+.nav-link {
+    color: darkblue;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.nav-link:hover {
+    color: red;
+    text-decoration: underline;
+}
